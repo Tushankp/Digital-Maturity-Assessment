@@ -1,0 +1,1201 @@
+organization_id,dimension,sub_area,value,weight
+1,Strategy,Vision & Leadership,5,0.2
+1,Customer Experience,Digital Channels,1,0.15
+1,Technology,Cloud & Infrastructure,5,0.2
+1,Data & AI,Data Governance,5,0.2
+1,People & Culture,Skills & Adoption,5,0.15
+1,Operations,Process Automation,5,0.1
+2,Strategy,Vision & Leadership,2,0.2
+2,Customer Experience,Digital Channels,5,0.15
+2,Technology,Cloud & Infrastructure,2,0.2
+2,Data & AI,Data Governance,1,0.2
+2,People & Culture,Skills & Adoption,4,0.15
+2,Operations,Process Automation,4,0.1
+3,Strategy,Vision & Leadership,4,0.2
+3,Customer Experience,Digital Channels,2,0.15
+3,Technology,Cloud & Infrastructure,3,0.2
+3,Data & AI,Data Governance,3,0.2
+3,People & Culture,Skills & Adoption,4,0.15
+3,Operations,Process Automation,5,0.1
+4,Strategy,Vision & Leadership,2,0.2
+4,Customer Experience,Digital Channels,5,0.15
+4,Technology,Cloud & Infrastructure,2,0.2
+4,Data & AI,Data Governance,5,0.2
+4,People & Culture,Skills & Adoption,2,0.15
+4,Operations,Process Automation,2,0.1
+5,Strategy,Vision & Leadership,5,0.2
+5,Customer Experience,Digital Channels,4,0.15
+5,Technology,Cloud & Infrastructure,1,0.2
+5,Data & AI,Data Governance,5,0.2
+5,People & Culture,Skills & Adoption,1,0.15
+5,Operations,Process Automation,1,0.1
+6,Strategy,Vision & Leadership,1,0.2
+6,Customer Experience,Digital Channels,1,0.15
+6,Technology,Cloud & Infrastructure,3,0.2
+6,Data & AI,Data Governance,1,0.2
+6,People & Culture,Skills & Adoption,1,0.15
+6,Operations,Process Automation,3,0.1
+7,Strategy,Vision & Leadership,3,0.2
+7,Customer Experience,Digital Channels,1,0.15
+7,Technology,Cloud & Infrastructure,4,0.2
+7,Data & AI,Data Governance,1,0.2
+7,People & Culture,Skills & Adoption,4,0.15
+7,Operations,Process Automation,2,0.1
+8,Strategy,Vision & Leadership,2,0.2
+8,Customer Experience,Digital Channels,2,0.15
+8,Technology,Cloud & Infrastructure,5,0.2
+8,Data & AI,Data Governance,3,0.2
+8,People & Culture,Skills & Adoption,1,0.15
+8,Operations,Process Automation,5,0.1
+9,Strategy,Vision & Leadership,1,0.2
+9,Customer Experience,Digital Channels,4,0.15
+9,Technology,Cloud & Infrastructure,2,0.2
+9,Data & AI,Data Governance,1,0.2
+9,People & Culture,Skills & Adoption,2,0.15
+9,Operations,Process Automation,2,0.1
+10,Strategy,Vision & Leadership,2,0.2
+10,Customer Experience,Digital Channels,5,0.15
+10,Technology,Cloud & Infrastructure,1,0.2
+10,Data & AI,Data Governance,5,0.2
+10,People & Culture,Skills & Adoption,3,0.15
+10,Operations,Process Automation,2,0.1
+11,Strategy,Vision & Leadership,2,0.2
+11,Customer Experience,Digital Channels,5,0.15
+11,Technology,Cloud & Infrastructure,2,0.2
+11,Data & AI,Data Governance,3,0.2
+11,People & Culture,Skills & Adoption,1,0.15
+11,Operations,Process Automation,1,0.1
+12,Strategy,Vision & Leadership,4,0.2
+12,Customer Experience,Digital Channels,3,0.15
+12,Technology,Cloud & Infrastructure,5,0.2
+12,Data & AI,Data Governance,2,0.2
+12,People & Culture,Skills & Adoption,2,0.15
+12,Operations,Process Automation,2,0.1
+13,Strategy,Vision & Leadership,4,0.2
+13,Customer Experience,Digital Channels,1,0.15
+13,Technology,Cloud & Infrastructure,4,0.2
+13,Data & AI,Data Governance,1,0.2
+13,People & Culture,Skills & Adoption,1,0.15
+13,Operations,Process Automation,4,0.1
+14,Strategy,Vision & Leadership,1,0.2
+14,Customer Experience,Digital Channels,2,0.15
+14,Technology,Cloud & Infrastructure,5,0.2
+14,Data & AI,Data Governance,3,0.2
+14,People & Culture,Skills & Adoption,5,0.15
+14,Operations,Process Automation,4,0.1
+15,Strategy,Vision & Leadership,4,0.2
+15,Customer Experience,Digital Channels,5,0.15
+15,Technology,Cloud & Infrastructure,1,0.2
+15,Data & AI,Data Governance,5,0.2
+15,People & Culture,Skills & Adoption,2,0.15
+15,Operations,Process Automation,5,0.1
+16,Strategy,Vision & Leadership,5,0.2
+16,Customer Experience,Digital Channels,1,0.15
+16,Technology,Cloud & Infrastructure,5,0.2
+16,Data & AI,Data Governance,3,0.2
+16,People & Culture,Skills & Adoption,4,0.15
+16,Operations,Process Automation,1,0.1
+17,Strategy,Vision & Leadership,2,0.2
+17,Customer Experience,Digital Channels,4,0.15
+17,Technology,Cloud & Infrastructure,3,0.2
+17,Data & AI,Data Governance,4,0.2
+17,People & Culture,Skills & Adoption,3,0.15
+17,Operations,Process Automation,4,0.1
+18,Strategy,Vision & Leadership,3,0.2
+18,Customer Experience,Digital Channels,3,0.15
+18,Technology,Cloud & Infrastructure,1,0.2
+18,Data & AI,Data Governance,3,0.2
+18,People & Culture,Skills & Adoption,3,0.15
+18,Operations,Process Automation,1,0.1
+19,Strategy,Vision & Leadership,4,0.2
+19,Customer Experience,Digital Channels,2,0.15
+19,Technology,Cloud & Infrastructure,4,0.2
+19,Data & AI,Data Governance,2,0.2
+19,People & Culture,Skills & Adoption,1,0.15
+19,Operations,Process Automation,2,0.1
+20,Strategy,Vision & Leadership,5,0.2
+20,Customer Experience,Digital Channels,5,0.15
+20,Technology,Cloud & Infrastructure,5,0.2
+20,Data & AI,Data Governance,3,0.2
+20,People & Culture,Skills & Adoption,2,0.15
+20,Operations,Process Automation,2,0.1
+21,Strategy,Vision & Leadership,1,0.2
+21,Customer Experience,Digital Channels,2,0.15
+21,Technology,Cloud & Infrastructure,5,0.2
+21,Data & AI,Data Governance,1,0.2
+21,People & Culture,Skills & Adoption,4,0.15
+21,Operations,Process Automation,2,0.1
+22,Strategy,Vision & Leadership,5,0.2
+22,Customer Experience,Digital Channels,5,0.15
+22,Technology,Cloud & Infrastructure,3,0.2
+22,Data & AI,Data Governance,4,0.2
+22,People & Culture,Skills & Adoption,5,0.15
+22,Operations,Process Automation,1,0.1
+23,Strategy,Vision & Leadership,1,0.2
+23,Customer Experience,Digital Channels,5,0.15
+23,Technology,Cloud & Infrastructure,5,0.2
+23,Data & AI,Data Governance,4,0.2
+23,People & Culture,Skills & Adoption,1,0.15
+23,Operations,Process Automation,1,0.1
+24,Strategy,Vision & Leadership,3,0.2
+24,Customer Experience,Digital Channels,4,0.15
+24,Technology,Cloud & Infrastructure,4,0.2
+24,Data & AI,Data Governance,2,0.2
+24,People & Culture,Skills & Adoption,2,0.15
+24,Operations,Process Automation,5,0.1
+25,Strategy,Vision & Leadership,5,0.2
+25,Customer Experience,Digital Channels,2,0.15
+25,Technology,Cloud & Infrastructure,4,0.2
+25,Data & AI,Data Governance,3,0.2
+25,People & Culture,Skills & Adoption,5,0.15
+25,Operations,Process Automation,1,0.1
+26,Strategy,Vision & Leadership,1,0.2
+26,Customer Experience,Digital Channels,3,0.15
+26,Technology,Cloud & Infrastructure,5,0.2
+26,Data & AI,Data Governance,3,0.2
+26,People & Culture,Skills & Adoption,5,0.15
+26,Operations,Process Automation,5,0.1
+27,Strategy,Vision & Leadership,3,0.2
+27,Customer Experience,Digital Channels,1,0.15
+27,Technology,Cloud & Infrastructure,3,0.2
+27,Data & AI,Data Governance,3,0.2
+27,People & Culture,Skills & Adoption,5,0.15
+27,Operations,Process Automation,3,0.1
+28,Strategy,Vision & Leadership,5,0.2
+28,Customer Experience,Digital Channels,2,0.15
+28,Technology,Cloud & Infrastructure,5,0.2
+28,Data & AI,Data Governance,2,0.2
+28,People & Culture,Skills & Adoption,4,0.15
+28,Operations,Process Automation,1,0.1
+29,Strategy,Vision & Leadership,4,0.2
+29,Customer Experience,Digital Channels,4,0.15
+29,Technology,Cloud & Infrastructure,4,0.2
+29,Data & AI,Data Governance,4,0.2
+29,People & Culture,Skills & Adoption,3,0.15
+29,Operations,Process Automation,1,0.1
+30,Strategy,Vision & Leadership,5,0.2
+30,Customer Experience,Digital Channels,3,0.15
+30,Technology,Cloud & Infrastructure,4,0.2
+30,Data & AI,Data Governance,4,0.2
+30,People & Culture,Skills & Adoption,5,0.15
+30,Operations,Process Automation,3,0.1
+31,Strategy,Vision & Leadership,2,0.2
+31,Customer Experience,Digital Channels,5,0.15
+31,Technology,Cloud & Infrastructure,4,0.2
+31,Data & AI,Data Governance,5,0.2
+31,People & Culture,Skills & Adoption,5,0.15
+31,Operations,Process Automation,1,0.1
+32,Strategy,Vision & Leadership,1,0.2
+32,Customer Experience,Digital Channels,3,0.15
+32,Technology,Cloud & Infrastructure,1,0.2
+32,Data & AI,Data Governance,4,0.2
+32,People & Culture,Skills & Adoption,4,0.15
+32,Operations,Process Automation,1,0.1
+33,Strategy,Vision & Leadership,1,0.2
+33,Customer Experience,Digital Channels,4,0.15
+33,Technology,Cloud & Infrastructure,1,0.2
+33,Data & AI,Data Governance,1,0.2
+33,People & Culture,Skills & Adoption,3,0.15
+33,Operations,Process Automation,1,0.1
+34,Strategy,Vision & Leadership,5,0.2
+34,Customer Experience,Digital Channels,1,0.15
+34,Technology,Cloud & Infrastructure,4,0.2
+34,Data & AI,Data Governance,1,0.2
+34,People & Culture,Skills & Adoption,5,0.15
+34,Operations,Process Automation,5,0.1
+35,Strategy,Vision & Leadership,3,0.2
+35,Customer Experience,Digital Channels,2,0.15
+35,Technology,Cloud & Infrastructure,3,0.2
+35,Data & AI,Data Governance,4,0.2
+35,People & Culture,Skills & Adoption,3,0.15
+35,Operations,Process Automation,5,0.1
+36,Strategy,Vision & Leadership,5,0.2
+36,Customer Experience,Digital Channels,4,0.15
+36,Technology,Cloud & Infrastructure,1,0.2
+36,Data & AI,Data Governance,2,0.2
+36,People & Culture,Skills & Adoption,5,0.15
+36,Operations,Process Automation,2,0.1
+37,Strategy,Vision & Leadership,4,0.2
+37,Customer Experience,Digital Channels,4,0.15
+37,Technology,Cloud & Infrastructure,2,0.2
+37,Data & AI,Data Governance,3,0.2
+37,People & Culture,Skills & Adoption,3,0.15
+37,Operations,Process Automation,1,0.1
+38,Strategy,Vision & Leadership,5,0.2
+38,Customer Experience,Digital Channels,2,0.15
+38,Technology,Cloud & Infrastructure,3,0.2
+38,Data & AI,Data Governance,4,0.2
+38,People & Culture,Skills & Adoption,2,0.15
+38,Operations,Process Automation,5,0.1
+39,Strategy,Vision & Leadership,5,0.2
+39,Customer Experience,Digital Channels,2,0.15
+39,Technology,Cloud & Infrastructure,5,0.2
+39,Data & AI,Data Governance,5,0.2
+39,People & Culture,Skills & Adoption,4,0.15
+39,Operations,Process Automation,1,0.1
+40,Strategy,Vision & Leadership,2,0.2
+40,Customer Experience,Digital Channels,3,0.15
+40,Technology,Cloud & Infrastructure,1,0.2
+40,Data & AI,Data Governance,1,0.2
+40,People & Culture,Skills & Adoption,1,0.15
+40,Operations,Process Automation,3,0.1
+41,Strategy,Vision & Leadership,4,0.2
+41,Customer Experience,Digital Channels,4,0.15
+41,Technology,Cloud & Infrastructure,1,0.2
+41,Data & AI,Data Governance,2,0.2
+41,People & Culture,Skills & Adoption,5,0.15
+41,Operations,Process Automation,2,0.1
+42,Strategy,Vision & Leadership,5,0.2
+42,Customer Experience,Digital Channels,4,0.15
+42,Technology,Cloud & Infrastructure,5,0.2
+42,Data & AI,Data Governance,3,0.2
+42,People & Culture,Skills & Adoption,4,0.15
+42,Operations,Process Automation,3,0.1
+43,Strategy,Vision & Leadership,2,0.2
+43,Customer Experience,Digital Channels,3,0.15
+43,Technology,Cloud & Infrastructure,4,0.2
+43,Data & AI,Data Governance,1,0.2
+43,People & Culture,Skills & Adoption,2,0.15
+43,Operations,Process Automation,5,0.1
+44,Strategy,Vision & Leadership,1,0.2
+44,Customer Experience,Digital Channels,5,0.15
+44,Technology,Cloud & Infrastructure,2,0.2
+44,Data & AI,Data Governance,2,0.2
+44,People & Culture,Skills & Adoption,2,0.15
+44,Operations,Process Automation,3,0.1
+45,Strategy,Vision & Leadership,2,0.2
+45,Customer Experience,Digital Channels,3,0.15
+45,Technology,Cloud & Infrastructure,4,0.2
+45,Data & AI,Data Governance,4,0.2
+45,People & Culture,Skills & Adoption,5,0.15
+45,Operations,Process Automation,5,0.1
+46,Strategy,Vision & Leadership,5,0.2
+46,Customer Experience,Digital Channels,2,0.15
+46,Technology,Cloud & Infrastructure,3,0.2
+46,Data & AI,Data Governance,2,0.2
+46,People & Culture,Skills & Adoption,1,0.15
+46,Operations,Process Automation,3,0.1
+47,Strategy,Vision & Leadership,3,0.2
+47,Customer Experience,Digital Channels,1,0.15
+47,Technology,Cloud & Infrastructure,1,0.2
+47,Data & AI,Data Governance,5,0.2
+47,People & Culture,Skills & Adoption,5,0.15
+47,Operations,Process Automation,4,0.1
+48,Strategy,Vision & Leadership,4,0.2
+48,Customer Experience,Digital Channels,1,0.15
+48,Technology,Cloud & Infrastructure,3,0.2
+48,Data & AI,Data Governance,5,0.2
+48,People & Culture,Skills & Adoption,2,0.15
+48,Operations,Process Automation,1,0.1
+49,Strategy,Vision & Leadership,1,0.2
+49,Customer Experience,Digital Channels,1,0.15
+49,Technology,Cloud & Infrastructure,5,0.2
+49,Data & AI,Data Governance,4,0.2
+49,People & Culture,Skills & Adoption,1,0.15
+49,Operations,Process Automation,2,0.1
+50,Strategy,Vision & Leadership,1,0.2
+50,Customer Experience,Digital Channels,4,0.15
+50,Technology,Cloud & Infrastructure,3,0.2
+50,Data & AI,Data Governance,1,0.2
+50,People & Culture,Skills & Adoption,4,0.15
+50,Operations,Process Automation,5,0.1
+51,Strategy,Vision & Leadership,3,0.2
+51,Customer Experience,Digital Channels,1,0.15
+51,Technology,Cloud & Infrastructure,4,0.2
+51,Data & AI,Data Governance,2,0.2
+51,People & Culture,Skills & Adoption,3,0.15
+51,Operations,Process Automation,4,0.1
+52,Strategy,Vision & Leadership,3,0.2
+52,Customer Experience,Digital Channels,2,0.15
+52,Technology,Cloud & Infrastructure,3,0.2
+52,Data & AI,Data Governance,3,0.2
+52,People & Culture,Skills & Adoption,1,0.15
+52,Operations,Process Automation,2,0.1
+53,Strategy,Vision & Leadership,5,0.2
+53,Customer Experience,Digital Channels,1,0.15
+53,Technology,Cloud & Infrastructure,5,0.2
+53,Data & AI,Data Governance,3,0.2
+53,People & Culture,Skills & Adoption,1,0.15
+53,Operations,Process Automation,5,0.1
+54,Strategy,Vision & Leadership,4,0.2
+54,Customer Experience,Digital Channels,4,0.15
+54,Technology,Cloud & Infrastructure,2,0.2
+54,Data & AI,Data Governance,1,0.2
+54,People & Culture,Skills & Adoption,3,0.15
+54,Operations,Process Automation,3,0.1
+55,Strategy,Vision & Leadership,1,0.2
+55,Customer Experience,Digital Channels,2,0.15
+55,Technology,Cloud & Infrastructure,2,0.2
+55,Data & AI,Data Governance,1,0.2
+55,People & Culture,Skills & Adoption,3,0.15
+55,Operations,Process Automation,5,0.1
+56,Strategy,Vision & Leadership,4,0.2
+56,Customer Experience,Digital Channels,2,0.15
+56,Technology,Cloud & Infrastructure,4,0.2
+56,Data & AI,Data Governance,5,0.2
+56,People & Culture,Skills & Adoption,1,0.15
+56,Operations,Process Automation,3,0.1
+57,Strategy,Vision & Leadership,4,0.2
+57,Customer Experience,Digital Channels,2,0.15
+57,Technology,Cloud & Infrastructure,1,0.2
+57,Data & AI,Data Governance,4,0.2
+57,People & Culture,Skills & Adoption,3,0.15
+57,Operations,Process Automation,5,0.1
+58,Strategy,Vision & Leadership,2,0.2
+58,Customer Experience,Digital Channels,3,0.15
+58,Technology,Cloud & Infrastructure,3,0.2
+58,Data & AI,Data Governance,1,0.2
+58,People & Culture,Skills & Adoption,1,0.15
+58,Operations,Process Automation,3,0.1
+59,Strategy,Vision & Leadership,3,0.2
+59,Customer Experience,Digital Channels,1,0.15
+59,Technology,Cloud & Infrastructure,4,0.2
+59,Data & AI,Data Governance,2,0.2
+59,People & Culture,Skills & Adoption,1,0.15
+59,Operations,Process Automation,5,0.1
+60,Strategy,Vision & Leadership,5,0.2
+60,Customer Experience,Digital Channels,3,0.15
+60,Technology,Cloud & Infrastructure,2,0.2
+60,Data & AI,Data Governance,5,0.2
+60,People & Culture,Skills & Adoption,3,0.15
+60,Operations,Process Automation,2,0.1
+61,Strategy,Vision & Leadership,3,0.2
+61,Customer Experience,Digital Channels,1,0.15
+61,Technology,Cloud & Infrastructure,3,0.2
+61,Data & AI,Data Governance,4,0.2
+61,People & Culture,Skills & Adoption,5,0.15
+61,Operations,Process Automation,4,0.1
+62,Strategy,Vision & Leadership,2,0.2
+62,Customer Experience,Digital Channels,2,0.15
+62,Technology,Cloud & Infrastructure,2,0.2
+62,Data & AI,Data Governance,1,0.2
+62,People & Culture,Skills & Adoption,4,0.15
+62,Operations,Process Automation,4,0.1
+63,Strategy,Vision & Leadership,2,0.2
+63,Customer Experience,Digital Channels,4,0.15
+63,Technology,Cloud & Infrastructure,5,0.2
+63,Data & AI,Data Governance,4,0.2
+63,People & Culture,Skills & Adoption,5,0.15
+63,Operations,Process Automation,3,0.1
+64,Strategy,Vision & Leadership,3,0.2
+64,Customer Experience,Digital Channels,3,0.15
+64,Technology,Cloud & Infrastructure,5,0.2
+64,Data & AI,Data Governance,5,0.2
+64,People & Culture,Skills & Adoption,1,0.15
+64,Operations,Process Automation,1,0.1
+65,Strategy,Vision & Leadership,4,0.2
+65,Customer Experience,Digital Channels,1,0.15
+65,Technology,Cloud & Infrastructure,4,0.2
+65,Data & AI,Data Governance,2,0.2
+65,People & Culture,Skills & Adoption,2,0.15
+65,Operations,Process Automation,2,0.1
+66,Strategy,Vision & Leadership,2,0.2
+66,Customer Experience,Digital Channels,4,0.15
+66,Technology,Cloud & Infrastructure,1,0.2
+66,Data & AI,Data Governance,3,0.2
+66,People & Culture,Skills & Adoption,3,0.15
+66,Operations,Process Automation,3,0.1
+67,Strategy,Vision & Leadership,3,0.2
+67,Customer Experience,Digital Channels,5,0.15
+67,Technology,Cloud & Infrastructure,2,0.2
+67,Data & AI,Data Governance,2,0.2
+67,People & Culture,Skills & Adoption,2,0.15
+67,Operations,Process Automation,5,0.1
+68,Strategy,Vision & Leadership,2,0.2
+68,Customer Experience,Digital Channels,5,0.15
+68,Technology,Cloud & Infrastructure,5,0.2
+68,Data & AI,Data Governance,3,0.2
+68,People & Culture,Skills & Adoption,3,0.15
+68,Operations,Process Automation,3,0.1
+69,Strategy,Vision & Leadership,5,0.2
+69,Customer Experience,Digital Channels,5,0.15
+69,Technology,Cloud & Infrastructure,4,0.2
+69,Data & AI,Data Governance,2,0.2
+69,People & Culture,Skills & Adoption,1,0.15
+69,Operations,Process Automation,4,0.1
+70,Strategy,Vision & Leadership,5,0.2
+70,Customer Experience,Digital Channels,4,0.15
+70,Technology,Cloud & Infrastructure,3,0.2
+70,Data & AI,Data Governance,2,0.2
+70,People & Culture,Skills & Adoption,1,0.15
+70,Operations,Process Automation,2,0.1
+71,Strategy,Vision & Leadership,3,0.2
+71,Customer Experience,Digital Channels,2,0.15
+71,Technology,Cloud & Infrastructure,4,0.2
+71,Data & AI,Data Governance,1,0.2
+71,People & Culture,Skills & Adoption,2,0.15
+71,Operations,Process Automation,4,0.1
+72,Strategy,Vision & Leadership,3,0.2
+72,Customer Experience,Digital Channels,3,0.15
+72,Technology,Cloud & Infrastructure,5,0.2
+72,Data & AI,Data Governance,5,0.2
+72,People & Culture,Skills & Adoption,2,0.15
+72,Operations,Process Automation,5,0.1
+73,Strategy,Vision & Leadership,4,0.2
+73,Customer Experience,Digital Channels,3,0.15
+73,Technology,Cloud & Infrastructure,5,0.2
+73,Data & AI,Data Governance,3,0.2
+73,People & Culture,Skills & Adoption,4,0.15
+73,Operations,Process Automation,4,0.1
+74,Strategy,Vision & Leadership,4,0.2
+74,Customer Experience,Digital Channels,4,0.15
+74,Technology,Cloud & Infrastructure,5,0.2
+74,Data & AI,Data Governance,5,0.2
+74,People & Culture,Skills & Adoption,1,0.15
+74,Operations,Process Automation,2,0.1
+75,Strategy,Vision & Leadership,3,0.2
+75,Customer Experience,Digital Channels,2,0.15
+75,Technology,Cloud & Infrastructure,1,0.2
+75,Data & AI,Data Governance,3,0.2
+75,People & Culture,Skills & Adoption,2,0.15
+75,Operations,Process Automation,1,0.1
+76,Strategy,Vision & Leadership,1,0.2
+76,Customer Experience,Digital Channels,2,0.15
+76,Technology,Cloud & Infrastructure,4,0.2
+76,Data & AI,Data Governance,3,0.2
+76,People & Culture,Skills & Adoption,4,0.15
+76,Operations,Process Automation,2,0.1
+77,Strategy,Vision & Leadership,1,0.2
+77,Customer Experience,Digital Channels,3,0.15
+77,Technology,Cloud & Infrastructure,4,0.2
+77,Data & AI,Data Governance,4,0.2
+77,People & Culture,Skills & Adoption,2,0.15
+77,Operations,Process Automation,3,0.1
+78,Strategy,Vision & Leadership,2,0.2
+78,Customer Experience,Digital Channels,5,0.15
+78,Technology,Cloud & Infrastructure,1,0.2
+78,Data & AI,Data Governance,5,0.2
+78,People & Culture,Skills & Adoption,3,0.15
+78,Operations,Process Automation,5,0.1
+79,Strategy,Vision & Leadership,5,0.2
+79,Customer Experience,Digital Channels,3,0.15
+79,Technology,Cloud & Infrastructure,4,0.2
+79,Data & AI,Data Governance,4,0.2
+79,People & Culture,Skills & Adoption,1,0.15
+79,Operations,Process Automation,4,0.1
+80,Strategy,Vision & Leadership,3,0.2
+80,Customer Experience,Digital Channels,3,0.15
+80,Technology,Cloud & Infrastructure,4,0.2
+80,Data & AI,Data Governance,1,0.2
+80,People & Culture,Skills & Adoption,1,0.15
+80,Operations,Process Automation,3,0.1
+81,Strategy,Vision & Leadership,2,0.2
+81,Customer Experience,Digital Channels,3,0.15
+81,Technology,Cloud & Infrastructure,3,0.2
+81,Data & AI,Data Governance,2,0.2
+81,People & Culture,Skills & Adoption,5,0.15
+81,Operations,Process Automation,2,0.1
+82,Strategy,Vision & Leadership,3,0.2
+82,Customer Experience,Digital Channels,4,0.15
+82,Technology,Cloud & Infrastructure,4,0.2
+82,Data & AI,Data Governance,1,0.2
+82,People & Culture,Skills & Adoption,2,0.15
+82,Operations,Process Automation,1,0.1
+83,Strategy,Vision & Leadership,1,0.2
+83,Customer Experience,Digital Channels,5,0.15
+83,Technology,Cloud & Infrastructure,3,0.2
+83,Data & AI,Data Governance,4,0.2
+83,People & Culture,Skills & Adoption,1,0.15
+83,Operations,Process Automation,1,0.1
+84,Strategy,Vision & Leadership,4,0.2
+84,Customer Experience,Digital Channels,1,0.15
+84,Technology,Cloud & Infrastructure,2,0.2
+84,Data & AI,Data Governance,5,0.2
+84,People & Culture,Skills & Adoption,1,0.15
+84,Operations,Process Automation,4,0.1
+85,Strategy,Vision & Leadership,3,0.2
+85,Customer Experience,Digital Channels,4,0.15
+85,Technology,Cloud & Infrastructure,1,0.2
+85,Data & AI,Data Governance,2,0.2
+85,People & Culture,Skills & Adoption,3,0.15
+85,Operations,Process Automation,2,0.1
+86,Strategy,Vision & Leadership,1,0.2
+86,Customer Experience,Digital Channels,5,0.15
+86,Technology,Cloud & Infrastructure,5,0.2
+86,Data & AI,Data Governance,4,0.2
+86,People & Culture,Skills & Adoption,4,0.15
+86,Operations,Process Automation,4,0.1
+87,Strategy,Vision & Leadership,1,0.2
+87,Customer Experience,Digital Channels,1,0.15
+87,Technology,Cloud & Infrastructure,4,0.2
+87,Data & AI,Data Governance,2,0.2
+87,People & Culture,Skills & Adoption,4,0.15
+87,Operations,Process Automation,4,0.1
+88,Strategy,Vision & Leadership,4,0.2
+88,Customer Experience,Digital Channels,1,0.15
+88,Technology,Cloud & Infrastructure,5,0.2
+88,Data & AI,Data Governance,2,0.2
+88,People & Culture,Skills & Adoption,3,0.15
+88,Operations,Process Automation,1,0.1
+89,Strategy,Vision & Leadership,1,0.2
+89,Customer Experience,Digital Channels,1,0.15
+89,Technology,Cloud & Infrastructure,1,0.2
+89,Data & AI,Data Governance,4,0.2
+89,People & Culture,Skills & Adoption,4,0.15
+89,Operations,Process Automation,1,0.1
+90,Strategy,Vision & Leadership,1,0.2
+90,Customer Experience,Digital Channels,3,0.15
+90,Technology,Cloud & Infrastructure,2,0.2
+90,Data & AI,Data Governance,2,0.2
+90,People & Culture,Skills & Adoption,5,0.15
+90,Operations,Process Automation,1,0.1
+91,Strategy,Vision & Leadership,1,0.2
+91,Customer Experience,Digital Channels,5,0.15
+91,Technology,Cloud & Infrastructure,3,0.2
+91,Data & AI,Data Governance,3,0.2
+91,People & Culture,Skills & Adoption,3,0.15
+91,Operations,Process Automation,1,0.1
+92,Strategy,Vision & Leadership,5,0.2
+92,Customer Experience,Digital Channels,4,0.15
+92,Technology,Cloud & Infrastructure,4,0.2
+92,Data & AI,Data Governance,5,0.2
+92,People & Culture,Skills & Adoption,4,0.15
+92,Operations,Process Automation,5,0.1
+93,Strategy,Vision & Leadership,1,0.2
+93,Customer Experience,Digital Channels,2,0.15
+93,Technology,Cloud & Infrastructure,2,0.2
+93,Data & AI,Data Governance,2,0.2
+93,People & Culture,Skills & Adoption,4,0.15
+93,Operations,Process Automation,4,0.1
+94,Strategy,Vision & Leadership,4,0.2
+94,Customer Experience,Digital Channels,5,0.15
+94,Technology,Cloud & Infrastructure,5,0.2
+94,Data & AI,Data Governance,3,0.2
+94,People & Culture,Skills & Adoption,1,0.15
+94,Operations,Process Automation,3,0.1
+95,Strategy,Vision & Leadership,2,0.2
+95,Customer Experience,Digital Channels,2,0.15
+95,Technology,Cloud & Infrastructure,5,0.2
+95,Data & AI,Data Governance,4,0.2
+95,People & Culture,Skills & Adoption,1,0.15
+95,Operations,Process Automation,3,0.1
+96,Strategy,Vision & Leadership,3,0.2
+96,Customer Experience,Digital Channels,2,0.15
+96,Technology,Cloud & Infrastructure,1,0.2
+96,Data & AI,Data Governance,4,0.2
+96,People & Culture,Skills & Adoption,5,0.15
+96,Operations,Process Automation,3,0.1
+97,Strategy,Vision & Leadership,4,0.2
+97,Customer Experience,Digital Channels,2,0.15
+97,Technology,Cloud & Infrastructure,5,0.2
+97,Data & AI,Data Governance,5,0.2
+97,People & Culture,Skills & Adoption,3,0.15
+97,Operations,Process Automation,4,0.1
+98,Strategy,Vision & Leadership,3,0.2
+98,Customer Experience,Digital Channels,5,0.15
+98,Technology,Cloud & Infrastructure,1,0.2
+98,Data & AI,Data Governance,3,0.2
+98,People & Culture,Skills & Adoption,4,0.15
+98,Operations,Process Automation,1,0.1
+99,Strategy,Vision & Leadership,3,0.2
+99,Customer Experience,Digital Channels,3,0.15
+99,Technology,Cloud & Infrastructure,2,0.2
+99,Data & AI,Data Governance,2,0.2
+99,People & Culture,Skills & Adoption,2,0.15
+99,Operations,Process Automation,2,0.1
+100,Strategy,Vision & Leadership,5,0.2
+100,Customer Experience,Digital Channels,4,0.15
+100,Technology,Cloud & Infrastructure,3,0.2
+100,Data & AI,Data Governance,3,0.2
+100,People & Culture,Skills & Adoption,4,0.15
+100,Operations,Process Automation,5,0.1
+101,Strategy,Vision & Leadership,1,0.2
+101,Customer Experience,Digital Channels,5,0.15
+101,Technology,Cloud & Infrastructure,3,0.2
+101,Data & AI,Data Governance,2,0.2
+101,People & Culture,Skills & Adoption,1,0.15
+101,Operations,Process Automation,3,0.1
+102,Strategy,Vision & Leadership,3,0.2
+102,Customer Experience,Digital Channels,4,0.15
+102,Technology,Cloud & Infrastructure,1,0.2
+102,Data & AI,Data Governance,4,0.2
+102,People & Culture,Skills & Adoption,4,0.15
+102,Operations,Process Automation,3,0.1
+103,Strategy,Vision & Leadership,2,0.2
+103,Customer Experience,Digital Channels,1,0.15
+103,Technology,Cloud & Infrastructure,2,0.2
+103,Data & AI,Data Governance,2,0.2
+103,People & Culture,Skills & Adoption,4,0.15
+103,Operations,Process Automation,1,0.1
+104,Strategy,Vision & Leadership,1,0.2
+104,Customer Experience,Digital Channels,1,0.15
+104,Technology,Cloud & Infrastructure,1,0.2
+104,Data & AI,Data Governance,5,0.2
+104,People & Culture,Skills & Adoption,4,0.15
+104,Operations,Process Automation,5,0.1
+105,Strategy,Vision & Leadership,2,0.2
+105,Customer Experience,Digital Channels,2,0.15
+105,Technology,Cloud & Infrastructure,3,0.2
+105,Data & AI,Data Governance,1,0.2
+105,People & Culture,Skills & Adoption,5,0.15
+105,Operations,Process Automation,3,0.1
+106,Strategy,Vision & Leadership,2,0.2
+106,Customer Experience,Digital Channels,4,0.15
+106,Technology,Cloud & Infrastructure,1,0.2
+106,Data & AI,Data Governance,4,0.2
+106,People & Culture,Skills & Adoption,1,0.15
+106,Operations,Process Automation,2,0.1
+107,Strategy,Vision & Leadership,2,0.2
+107,Customer Experience,Digital Channels,1,0.15
+107,Technology,Cloud & Infrastructure,4,0.2
+107,Data & AI,Data Governance,1,0.2
+107,People & Culture,Skills & Adoption,1,0.15
+107,Operations,Process Automation,3,0.1
+108,Strategy,Vision & Leadership,5,0.2
+108,Customer Experience,Digital Channels,1,0.15
+108,Technology,Cloud & Infrastructure,4,0.2
+108,Data & AI,Data Governance,3,0.2
+108,People & Culture,Skills & Adoption,5,0.15
+108,Operations,Process Automation,3,0.1
+109,Strategy,Vision & Leadership,1,0.2
+109,Customer Experience,Digital Channels,1,0.15
+109,Technology,Cloud & Infrastructure,1,0.2
+109,Data & AI,Data Governance,4,0.2
+109,People & Culture,Skills & Adoption,2,0.15
+109,Operations,Process Automation,1,0.1
+110,Strategy,Vision & Leadership,2,0.2
+110,Customer Experience,Digital Channels,1,0.15
+110,Technology,Cloud & Infrastructure,3,0.2
+110,Data & AI,Data Governance,2,0.2
+110,People & Culture,Skills & Adoption,2,0.15
+110,Operations,Process Automation,1,0.1
+111,Strategy,Vision & Leadership,2,0.2
+111,Customer Experience,Digital Channels,3,0.15
+111,Technology,Cloud & Infrastructure,1,0.2
+111,Data & AI,Data Governance,4,0.2
+111,People & Culture,Skills & Adoption,5,0.15
+111,Operations,Process Automation,2,0.1
+112,Strategy,Vision & Leadership,1,0.2
+112,Customer Experience,Digital Channels,3,0.15
+112,Technology,Cloud & Infrastructure,3,0.2
+112,Data & AI,Data Governance,2,0.2
+112,People & Culture,Skills & Adoption,5,0.15
+112,Operations,Process Automation,4,0.1
+113,Strategy,Vision & Leadership,5,0.2
+113,Customer Experience,Digital Channels,4,0.15
+113,Technology,Cloud & Infrastructure,5,0.2
+113,Data & AI,Data Governance,5,0.2
+113,People & Culture,Skills & Adoption,2,0.15
+113,Operations,Process Automation,3,0.1
+114,Strategy,Vision & Leadership,1,0.2
+114,Customer Experience,Digital Channels,4,0.15
+114,Technology,Cloud & Infrastructure,5,0.2
+114,Data & AI,Data Governance,5,0.2
+114,People & Culture,Skills & Adoption,4,0.15
+114,Operations,Process Automation,1,0.1
+115,Strategy,Vision & Leadership,4,0.2
+115,Customer Experience,Digital Channels,2,0.15
+115,Technology,Cloud & Infrastructure,4,0.2
+115,Data & AI,Data Governance,5,0.2
+115,People & Culture,Skills & Adoption,2,0.15
+115,Operations,Process Automation,4,0.1
+116,Strategy,Vision & Leadership,4,0.2
+116,Customer Experience,Digital Channels,2,0.15
+116,Technology,Cloud & Infrastructure,4,0.2
+116,Data & AI,Data Governance,3,0.2
+116,People & Culture,Skills & Adoption,2,0.15
+116,Operations,Process Automation,2,0.1
+117,Strategy,Vision & Leadership,3,0.2
+117,Customer Experience,Digital Channels,1,0.15
+117,Technology,Cloud & Infrastructure,1,0.2
+117,Data & AI,Data Governance,3,0.2
+117,People & Culture,Skills & Adoption,5,0.15
+117,Operations,Process Automation,3,0.1
+118,Strategy,Vision & Leadership,5,0.2
+118,Customer Experience,Digital Channels,2,0.15
+118,Technology,Cloud & Infrastructure,3,0.2
+118,Data & AI,Data Governance,4,0.2
+118,People & Culture,Skills & Adoption,4,0.15
+118,Operations,Process Automation,4,0.1
+119,Strategy,Vision & Leadership,5,0.2
+119,Customer Experience,Digital Channels,4,0.15
+119,Technology,Cloud & Infrastructure,4,0.2
+119,Data & AI,Data Governance,4,0.2
+119,People & Culture,Skills & Adoption,2,0.15
+119,Operations,Process Automation,1,0.1
+120,Strategy,Vision & Leadership,4,0.2
+120,Customer Experience,Digital Channels,3,0.15
+120,Technology,Cloud & Infrastructure,4,0.2
+120,Data & AI,Data Governance,1,0.2
+120,People & Culture,Skills & Adoption,3,0.15
+120,Operations,Process Automation,1,0.1
+121,Strategy,Vision & Leadership,2,0.2
+121,Customer Experience,Digital Channels,4,0.15
+121,Technology,Cloud & Infrastructure,3,0.2
+121,Data & AI,Data Governance,3,0.2
+121,People & Culture,Skills & Adoption,2,0.15
+121,Operations,Process Automation,5,0.1
+122,Strategy,Vision & Leadership,1,0.2
+122,Customer Experience,Digital Channels,5,0.15
+122,Technology,Cloud & Infrastructure,1,0.2
+122,Data & AI,Data Governance,1,0.2
+122,People & Culture,Skills & Adoption,1,0.15
+122,Operations,Process Automation,1,0.1
+123,Strategy,Vision & Leadership,5,0.2
+123,Customer Experience,Digital Channels,1,0.15
+123,Technology,Cloud & Infrastructure,1,0.2
+123,Data & AI,Data Governance,4,0.2
+123,People & Culture,Skills & Adoption,1,0.15
+123,Operations,Process Automation,1,0.1
+124,Strategy,Vision & Leadership,5,0.2
+124,Customer Experience,Digital Channels,4,0.15
+124,Technology,Cloud & Infrastructure,3,0.2
+124,Data & AI,Data Governance,2,0.2
+124,People & Culture,Skills & Adoption,1,0.15
+124,Operations,Process Automation,2,0.1
+125,Strategy,Vision & Leadership,4,0.2
+125,Customer Experience,Digital Channels,3,0.15
+125,Technology,Cloud & Infrastructure,3,0.2
+125,Data & AI,Data Governance,2,0.2
+125,People & Culture,Skills & Adoption,1,0.15
+125,Operations,Process Automation,3,0.1
+126,Strategy,Vision & Leadership,5,0.2
+126,Customer Experience,Digital Channels,4,0.15
+126,Technology,Cloud & Infrastructure,1,0.2
+126,Data & AI,Data Governance,5,0.2
+126,People & Culture,Skills & Adoption,5,0.15
+126,Operations,Process Automation,5,0.1
+127,Strategy,Vision & Leadership,5,0.2
+127,Customer Experience,Digital Channels,5,0.15
+127,Technology,Cloud & Infrastructure,1,0.2
+127,Data & AI,Data Governance,2,0.2
+127,People & Culture,Skills & Adoption,1,0.15
+127,Operations,Process Automation,4,0.1
+128,Strategy,Vision & Leadership,1,0.2
+128,Customer Experience,Digital Channels,5,0.15
+128,Technology,Cloud & Infrastructure,1,0.2
+128,Data & AI,Data Governance,1,0.2
+128,People & Culture,Skills & Adoption,1,0.15
+128,Operations,Process Automation,2,0.1
+129,Strategy,Vision & Leadership,2,0.2
+129,Customer Experience,Digital Channels,2,0.15
+129,Technology,Cloud & Infrastructure,4,0.2
+129,Data & AI,Data Governance,4,0.2
+129,People & Culture,Skills & Adoption,3,0.15
+129,Operations,Process Automation,4,0.1
+130,Strategy,Vision & Leadership,2,0.2
+130,Customer Experience,Digital Channels,2,0.15
+130,Technology,Cloud & Infrastructure,1,0.2
+130,Data & AI,Data Governance,1,0.2
+130,People & Culture,Skills & Adoption,1,0.15
+130,Operations,Process Automation,2,0.1
+131,Strategy,Vision & Leadership,4,0.2
+131,Customer Experience,Digital Channels,1,0.15
+131,Technology,Cloud & Infrastructure,3,0.2
+131,Data & AI,Data Governance,5,0.2
+131,People & Culture,Skills & Adoption,4,0.15
+131,Operations,Process Automation,1,0.1
+132,Strategy,Vision & Leadership,3,0.2
+132,Customer Experience,Digital Channels,3,0.15
+132,Technology,Cloud & Infrastructure,5,0.2
+132,Data & AI,Data Governance,1,0.2
+132,People & Culture,Skills & Adoption,3,0.15
+132,Operations,Process Automation,3,0.1
+133,Strategy,Vision & Leadership,4,0.2
+133,Customer Experience,Digital Channels,4,0.15
+133,Technology,Cloud & Infrastructure,2,0.2
+133,Data & AI,Data Governance,2,0.2
+133,People & Culture,Skills & Adoption,5,0.15
+133,Operations,Process Automation,5,0.1
+134,Strategy,Vision & Leadership,2,0.2
+134,Customer Experience,Digital Channels,2,0.15
+134,Technology,Cloud & Infrastructure,2,0.2
+134,Data & AI,Data Governance,4,0.2
+134,People & Culture,Skills & Adoption,5,0.15
+134,Operations,Process Automation,2,0.1
+135,Strategy,Vision & Leadership,5,0.2
+135,Customer Experience,Digital Channels,2,0.15
+135,Technology,Cloud & Infrastructure,1,0.2
+135,Data & AI,Data Governance,4,0.2
+135,People & Culture,Skills & Adoption,3,0.15
+135,Operations,Process Automation,2,0.1
+136,Strategy,Vision & Leadership,2,0.2
+136,Customer Experience,Digital Channels,5,0.15
+136,Technology,Cloud & Infrastructure,3,0.2
+136,Data & AI,Data Governance,5,0.2
+136,People & Culture,Skills & Adoption,1,0.15
+136,Operations,Process Automation,1,0.1
+137,Strategy,Vision & Leadership,1,0.2
+137,Customer Experience,Digital Channels,3,0.15
+137,Technology,Cloud & Infrastructure,4,0.2
+137,Data & AI,Data Governance,1,0.2
+137,People & Culture,Skills & Adoption,5,0.15
+137,Operations,Process Automation,5,0.1
+138,Strategy,Vision & Leadership,2,0.2
+138,Customer Experience,Digital Channels,5,0.15
+138,Technology,Cloud & Infrastructure,3,0.2
+138,Data & AI,Data Governance,2,0.2
+138,People & Culture,Skills & Adoption,3,0.15
+138,Operations,Process Automation,1,0.1
+139,Strategy,Vision & Leadership,1,0.2
+139,Customer Experience,Digital Channels,1,0.15
+139,Technology,Cloud & Infrastructure,1,0.2
+139,Data & AI,Data Governance,5,0.2
+139,People & Culture,Skills & Adoption,4,0.15
+139,Operations,Process Automation,2,0.1
+140,Strategy,Vision & Leadership,1,0.2
+140,Customer Experience,Digital Channels,5,0.15
+140,Technology,Cloud & Infrastructure,4,0.2
+140,Data & AI,Data Governance,5,0.2
+140,People & Culture,Skills & Adoption,4,0.15
+140,Operations,Process Automation,4,0.1
+141,Strategy,Vision & Leadership,4,0.2
+141,Customer Experience,Digital Channels,5,0.15
+141,Technology,Cloud & Infrastructure,4,0.2
+141,Data & AI,Data Governance,5,0.2
+141,People & Culture,Skills & Adoption,2,0.15
+141,Operations,Process Automation,5,0.1
+142,Strategy,Vision & Leadership,1,0.2
+142,Customer Experience,Digital Channels,2,0.15
+142,Technology,Cloud & Infrastructure,3,0.2
+142,Data & AI,Data Governance,4,0.2
+142,People & Culture,Skills & Adoption,3,0.15
+142,Operations,Process Automation,2,0.1
+143,Strategy,Vision & Leadership,2,0.2
+143,Customer Experience,Digital Channels,3,0.15
+143,Technology,Cloud & Infrastructure,3,0.2
+143,Data & AI,Data Governance,5,0.2
+143,People & Culture,Skills & Adoption,2,0.15
+143,Operations,Process Automation,2,0.1
+144,Strategy,Vision & Leadership,2,0.2
+144,Customer Experience,Digital Channels,1,0.15
+144,Technology,Cloud & Infrastructure,3,0.2
+144,Data & AI,Data Governance,4,0.2
+144,People & Culture,Skills & Adoption,4,0.15
+144,Operations,Process Automation,5,0.1
+145,Strategy,Vision & Leadership,1,0.2
+145,Customer Experience,Digital Channels,4,0.15
+145,Technology,Cloud & Infrastructure,1,0.2
+145,Data & AI,Data Governance,4,0.2
+145,People & Culture,Skills & Adoption,5,0.15
+145,Operations,Process Automation,4,0.1
+146,Strategy,Vision & Leadership,4,0.2
+146,Customer Experience,Digital Channels,5,0.15
+146,Technology,Cloud & Infrastructure,5,0.2
+146,Data & AI,Data Governance,5,0.2
+146,People & Culture,Skills & Adoption,1,0.15
+146,Operations,Process Automation,2,0.1
+147,Strategy,Vision & Leadership,2,0.2
+147,Customer Experience,Digital Channels,5,0.15
+147,Technology,Cloud & Infrastructure,3,0.2
+147,Data & AI,Data Governance,5,0.2
+147,People & Culture,Skills & Adoption,3,0.15
+147,Operations,Process Automation,2,0.1
+148,Strategy,Vision & Leadership,2,0.2
+148,Customer Experience,Digital Channels,2,0.15
+148,Technology,Cloud & Infrastructure,1,0.2
+148,Data & AI,Data Governance,4,0.2
+148,People & Culture,Skills & Adoption,5,0.15
+148,Operations,Process Automation,5,0.1
+149,Strategy,Vision & Leadership,1,0.2
+149,Customer Experience,Digital Channels,3,0.15
+149,Technology,Cloud & Infrastructure,2,0.2
+149,Data & AI,Data Governance,4,0.2
+149,People & Culture,Skills & Adoption,1,0.15
+149,Operations,Process Automation,2,0.1
+150,Strategy,Vision & Leadership,3,0.2
+150,Customer Experience,Digital Channels,2,0.15
+150,Technology,Cloud & Infrastructure,5,0.2
+150,Data & AI,Data Governance,1,0.2
+150,People & Culture,Skills & Adoption,4,0.15
+150,Operations,Process Automation,5,0.1
+151,Strategy,Vision & Leadership,2,0.2
+151,Customer Experience,Digital Channels,5,0.15
+151,Technology,Cloud & Infrastructure,1,0.2
+151,Data & AI,Data Governance,1,0.2
+151,People & Culture,Skills & Adoption,2,0.15
+151,Operations,Process Automation,5,0.1
+152,Strategy,Vision & Leadership,5,0.2
+152,Customer Experience,Digital Channels,5,0.15
+152,Technology,Cloud & Infrastructure,4,0.2
+152,Data & AI,Data Governance,2,0.2
+152,People & Culture,Skills & Adoption,2,0.15
+152,Operations,Process Automation,3,0.1
+153,Strategy,Vision & Leadership,5,0.2
+153,Customer Experience,Digital Channels,2,0.15
+153,Technology,Cloud & Infrastructure,2,0.2
+153,Data & AI,Data Governance,1,0.2
+153,People & Culture,Skills & Adoption,3,0.15
+153,Operations,Process Automation,4,0.1
+154,Strategy,Vision & Leadership,5,0.2
+154,Customer Experience,Digital Channels,1,0.15
+154,Technology,Cloud & Infrastructure,1,0.2
+154,Data & AI,Data Governance,5,0.2
+154,People & Culture,Skills & Adoption,3,0.15
+154,Operations,Process Automation,5,0.1
+155,Strategy,Vision & Leadership,3,0.2
+155,Customer Experience,Digital Channels,1,0.15
+155,Technology,Cloud & Infrastructure,3,0.2
+155,Data & AI,Data Governance,3,0.2
+155,People & Culture,Skills & Adoption,2,0.15
+155,Operations,Process Automation,4,0.1
+156,Strategy,Vision & Leadership,3,0.2
+156,Customer Experience,Digital Channels,1,0.15
+156,Technology,Cloud & Infrastructure,4,0.2
+156,Data & AI,Data Governance,4,0.2
+156,People & Culture,Skills & Adoption,5,0.15
+156,Operations,Process Automation,3,0.1
+157,Strategy,Vision & Leadership,1,0.2
+157,Customer Experience,Digital Channels,3,0.15
+157,Technology,Cloud & Infrastructure,4,0.2
+157,Data & AI,Data Governance,4,0.2
+157,People & Culture,Skills & Adoption,1,0.15
+157,Operations,Process Automation,1,0.1
+158,Strategy,Vision & Leadership,2,0.2
+158,Customer Experience,Digital Channels,2,0.15
+158,Technology,Cloud & Infrastructure,1,0.2
+158,Data & AI,Data Governance,1,0.2
+158,People & Culture,Skills & Adoption,2,0.15
+158,Operations,Process Automation,4,0.1
+159,Strategy,Vision & Leadership,1,0.2
+159,Customer Experience,Digital Channels,5,0.15
+159,Technology,Cloud & Infrastructure,2,0.2
+159,Data & AI,Data Governance,2,0.2
+159,People & Culture,Skills & Adoption,3,0.15
+159,Operations,Process Automation,5,0.1
+160,Strategy,Vision & Leadership,3,0.2
+160,Customer Experience,Digital Channels,2,0.15
+160,Technology,Cloud & Infrastructure,2,0.2
+160,Data & AI,Data Governance,4,0.2
+160,People & Culture,Skills & Adoption,1,0.15
+160,Operations,Process Automation,4,0.1
+161,Strategy,Vision & Leadership,5,0.2
+161,Customer Experience,Digital Channels,2,0.15
+161,Technology,Cloud & Infrastructure,1,0.2
+161,Data & AI,Data Governance,3,0.2
+161,People & Culture,Skills & Adoption,5,0.15
+161,Operations,Process Automation,3,0.1
+162,Strategy,Vision & Leadership,5,0.2
+162,Customer Experience,Digital Channels,1,0.15
+162,Technology,Cloud & Infrastructure,2,0.2
+162,Data & AI,Data Governance,5,0.2
+162,People & Culture,Skills & Adoption,5,0.15
+162,Operations,Process Automation,2,0.1
+163,Strategy,Vision & Leadership,5,0.2
+163,Customer Experience,Digital Channels,1,0.15
+163,Technology,Cloud & Infrastructure,4,0.2
+163,Data & AI,Data Governance,1,0.2
+163,People & Culture,Skills & Adoption,4,0.15
+163,Operations,Process Automation,1,0.1
+164,Strategy,Vision & Leadership,2,0.2
+164,Customer Experience,Digital Channels,5,0.15
+164,Technology,Cloud & Infrastructure,1,0.2
+164,Data & AI,Data Governance,1,0.2
+164,People & Culture,Skills & Adoption,3,0.15
+164,Operations,Process Automation,5,0.1
+165,Strategy,Vision & Leadership,3,0.2
+165,Customer Experience,Digital Channels,2,0.15
+165,Technology,Cloud & Infrastructure,3,0.2
+165,Data & AI,Data Governance,2,0.2
+165,People & Culture,Skills & Adoption,3,0.15
+165,Operations,Process Automation,4,0.1
+166,Strategy,Vision & Leadership,1,0.2
+166,Customer Experience,Digital Channels,4,0.15
+166,Technology,Cloud & Infrastructure,5,0.2
+166,Data & AI,Data Governance,4,0.2
+166,People & Culture,Skills & Adoption,3,0.15
+166,Operations,Process Automation,4,0.1
+167,Strategy,Vision & Leadership,3,0.2
+167,Customer Experience,Digital Channels,4,0.15
+167,Technology,Cloud & Infrastructure,5,0.2
+167,Data & AI,Data Governance,5,0.2
+167,People & Culture,Skills & Adoption,4,0.15
+167,Operations,Process Automation,1,0.1
+168,Strategy,Vision & Leadership,3,0.2
+168,Customer Experience,Digital Channels,5,0.15
+168,Technology,Cloud & Infrastructure,5,0.2
+168,Data & AI,Data Governance,1,0.2
+168,People & Culture,Skills & Adoption,4,0.15
+168,Operations,Process Automation,3,0.1
+169,Strategy,Vision & Leadership,3,0.2
+169,Customer Experience,Digital Channels,5,0.15
+169,Technology,Cloud & Infrastructure,3,0.2
+169,Data & AI,Data Governance,2,0.2
+169,People & Culture,Skills & Adoption,3,0.15
+169,Operations,Process Automation,3,0.1
+170,Strategy,Vision & Leadership,5,0.2
+170,Customer Experience,Digital Channels,5,0.15
+170,Technology,Cloud & Infrastructure,1,0.2
+170,Data & AI,Data Governance,5,0.2
+170,People & Culture,Skills & Adoption,3,0.15
+170,Operations,Process Automation,3,0.1
+171,Strategy,Vision & Leadership,3,0.2
+171,Customer Experience,Digital Channels,5,0.15
+171,Technology,Cloud & Infrastructure,3,0.2
+171,Data & AI,Data Governance,4,0.2
+171,People & Culture,Skills & Adoption,2,0.15
+171,Operations,Process Automation,2,0.1
+172,Strategy,Vision & Leadership,4,0.2
+172,Customer Experience,Digital Channels,4,0.15
+172,Technology,Cloud & Infrastructure,3,0.2
+172,Data & AI,Data Governance,4,0.2
+172,People & Culture,Skills & Adoption,4,0.15
+172,Operations,Process Automation,5,0.1
+173,Strategy,Vision & Leadership,2,0.2
+173,Customer Experience,Digital Channels,1,0.15
+173,Technology,Cloud & Infrastructure,5,0.2
+173,Data & AI,Data Governance,2,0.2
+173,People & Culture,Skills & Adoption,1,0.15
+173,Operations,Process Automation,2,0.1
+174,Strategy,Vision & Leadership,3,0.2
+174,Customer Experience,Digital Channels,5,0.15
+174,Technology,Cloud & Infrastructure,2,0.2
+174,Data & AI,Data Governance,5,0.2
+174,People & Culture,Skills & Adoption,5,0.15
+174,Operations,Process Automation,1,0.1
+175,Strategy,Vision & Leadership,4,0.2
+175,Customer Experience,Digital Channels,4,0.15
+175,Technology,Cloud & Infrastructure,4,0.2
+175,Data & AI,Data Governance,4,0.2
+175,People & Culture,Skills & Adoption,3,0.15
+175,Operations,Process Automation,3,0.1
+176,Strategy,Vision & Leadership,1,0.2
+176,Customer Experience,Digital Channels,1,0.15
+176,Technology,Cloud & Infrastructure,5,0.2
+176,Data & AI,Data Governance,1,0.2
+176,People & Culture,Skills & Adoption,1,0.15
+176,Operations,Process Automation,4,0.1
+177,Strategy,Vision & Leadership,4,0.2
+177,Customer Experience,Digital Channels,2,0.15
+177,Technology,Cloud & Infrastructure,3,0.2
+177,Data & AI,Data Governance,1,0.2
+177,People & Culture,Skills & Adoption,3,0.15
+177,Operations,Process Automation,5,0.1
+178,Strategy,Vision & Leadership,4,0.2
+178,Customer Experience,Digital Channels,3,0.15
+178,Technology,Cloud & Infrastructure,2,0.2
+178,Data & AI,Data Governance,3,0.2
+178,People & Culture,Skills & Adoption,4,0.15
+178,Operations,Process Automation,3,0.1
+179,Strategy,Vision & Leadership,2,0.2
+179,Customer Experience,Digital Channels,1,0.15
+179,Technology,Cloud & Infrastructure,5,0.2
+179,Data & AI,Data Governance,2,0.2
+179,People & Culture,Skills & Adoption,1,0.15
+179,Operations,Process Automation,4,0.1
+180,Strategy,Vision & Leadership,2,0.2
+180,Customer Experience,Digital Channels,1,0.15
+180,Technology,Cloud & Infrastructure,5,0.2
+180,Data & AI,Data Governance,5,0.2
+180,People & Culture,Skills & Adoption,4,0.15
+180,Operations,Process Automation,5,0.1
+181,Strategy,Vision & Leadership,1,0.2
+181,Customer Experience,Digital Channels,3,0.15
+181,Technology,Cloud & Infrastructure,2,0.2
+181,Data & AI,Data Governance,3,0.2
+181,People & Culture,Skills & Adoption,4,0.15
+181,Operations,Process Automation,3,0.1
+182,Strategy,Vision & Leadership,1,0.2
+182,Customer Experience,Digital Channels,1,0.15
+182,Technology,Cloud & Infrastructure,4,0.2
+182,Data & AI,Data Governance,4,0.2
+182,People & Culture,Skills & Adoption,5,0.15
+182,Operations,Process Automation,1,0.1
+183,Strategy,Vision & Leadership,3,0.2
+183,Customer Experience,Digital Channels,1,0.15
+183,Technology,Cloud & Infrastructure,4,0.2
+183,Data & AI,Data Governance,1,0.2
+183,People & Culture,Skills & Adoption,2,0.15
+183,Operations,Process Automation,4,0.1
+184,Strategy,Vision & Leadership,4,0.2
+184,Customer Experience,Digital Channels,3,0.15
+184,Technology,Cloud & Infrastructure,3,0.2
+184,Data & AI,Data Governance,5,0.2
+184,People & Culture,Skills & Adoption,3,0.15
+184,Operations,Process Automation,5,0.1
+185,Strategy,Vision & Leadership,3,0.2
+185,Customer Experience,Digital Channels,3,0.15
+185,Technology,Cloud & Infrastructure,4,0.2
+185,Data & AI,Data Governance,5,0.2
+185,People & Culture,Skills & Adoption,5,0.15
+185,Operations,Process Automation,2,0.1
+186,Strategy,Vision & Leadership,5,0.2
+186,Customer Experience,Digital Channels,5,0.15
+186,Technology,Cloud & Infrastructure,5,0.2
+186,Data & AI,Data Governance,1,0.2
+186,People & Culture,Skills & Adoption,2,0.15
+186,Operations,Process Automation,2,0.1
+187,Strategy,Vision & Leadership,5,0.2
+187,Customer Experience,Digital Channels,5,0.15
+187,Technology,Cloud & Infrastructure,1,0.2
+187,Data & AI,Data Governance,1,0.2
+187,People & Culture,Skills & Adoption,1,0.15
+187,Operations,Process Automation,4,0.1
+188,Strategy,Vision & Leadership,1,0.2
+188,Customer Experience,Digital Channels,3,0.15
+188,Technology,Cloud & Infrastructure,5,0.2
+188,Data & AI,Data Governance,3,0.2
+188,People & Culture,Skills & Adoption,3,0.15
+188,Operations,Process Automation,1,0.1
+189,Strategy,Vision & Leadership,1,0.2
+189,Customer Experience,Digital Channels,1,0.15
+189,Technology,Cloud & Infrastructure,3,0.2
+189,Data & AI,Data Governance,1,0.2
+189,People & Culture,Skills & Adoption,5,0.15
+189,Operations,Process Automation,1,0.1
+190,Strategy,Vision & Leadership,4,0.2
+190,Customer Experience,Digital Channels,4,0.15
+190,Technology,Cloud & Infrastructure,1,0.2
+190,Data & AI,Data Governance,2,0.2
+190,People & Culture,Skills & Adoption,3,0.15
+190,Operations,Process Automation,1,0.1
+191,Strategy,Vision & Leadership,1,0.2
+191,Customer Experience,Digital Channels,2,0.15
+191,Technology,Cloud & Infrastructure,5,0.2
+191,Data & AI,Data Governance,4,0.2
+191,People & Culture,Skills & Adoption,1,0.15
+191,Operations,Process Automation,3,0.1
+192,Strategy,Vision & Leadership,5,0.2
+192,Customer Experience,Digital Channels,1,0.15
+192,Technology,Cloud & Infrastructure,4,0.2
+192,Data & AI,Data Governance,5,0.2
+192,People & Culture,Skills & Adoption,4,0.15
+192,Operations,Process Automation,4,0.1
+193,Strategy,Vision & Leadership,5,0.2
+193,Customer Experience,Digital Channels,2,0.15
+193,Technology,Cloud & Infrastructure,5,0.2
+193,Data & AI,Data Governance,2,0.2
+193,People & Culture,Skills & Adoption,2,0.15
+193,Operations,Process Automation,3,0.1
+194,Strategy,Vision & Leadership,3,0.2
+194,Customer Experience,Digital Channels,4,0.15
+194,Technology,Cloud & Infrastructure,2,0.2
+194,Data & AI,Data Governance,5,0.2
+194,People & Culture,Skills & Adoption,1,0.15
+194,Operations,Process Automation,3,0.1
+195,Strategy,Vision & Leadership,3,0.2
+195,Customer Experience,Digital Channels,2,0.15
+195,Technology,Cloud & Infrastructure,5,0.2
+195,Data & AI,Data Governance,1,0.2
+195,People & Culture,Skills & Adoption,1,0.15
+195,Operations,Process Automation,4,0.1
+196,Strategy,Vision & Leadership,2,0.2
+196,Customer Experience,Digital Channels,2,0.15
+196,Technology,Cloud & Infrastructure,4,0.2
+196,Data & AI,Data Governance,1,0.2
+196,People & Culture,Skills & Adoption,2,0.15
+196,Operations,Process Automation,5,0.1
+197,Strategy,Vision & Leadership,3,0.2
+197,Customer Experience,Digital Channels,1,0.15
+197,Technology,Cloud & Infrastructure,5,0.2
+197,Data & AI,Data Governance,4,0.2
+197,People & Culture,Skills & Adoption,5,0.15
+197,Operations,Process Automation,1,0.1
+198,Strategy,Vision & Leadership,1,0.2
+198,Customer Experience,Digital Channels,1,0.15
+198,Technology,Cloud & Infrastructure,2,0.2
+198,Data & AI,Data Governance,2,0.2
+198,People & Culture,Skills & Adoption,2,0.15
+198,Operations,Process Automation,4,0.1
+199,Strategy,Vision & Leadership,2,0.2
+199,Customer Experience,Digital Channels,1,0.15
+199,Technology,Cloud & Infrastructure,3,0.2
+199,Data & AI,Data Governance,3,0.2
+199,People & Culture,Skills & Adoption,4,0.15
+199,Operations,Process Automation,5,0.1
+200,Strategy,Vision & Leadership,4,0.2
+200,Customer Experience,Digital Channels,2,0.15
+200,Technology,Cloud & Infrastructure,3,0.2
+200,Data & AI,Data Governance,5,0.2
+200,People & Culture,Skills & Adoption,3,0.15
+200,Operations,Process Automation,2,0.1
