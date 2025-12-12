@@ -1,6 +1,6 @@
-﻿# Digital-Maturity-Assessment1
+﻿# Digital-Maturity-Assessment
 
-## 🧠 Methodology
+## Methodology
 
 ### Digital Maturity Framework
 - Defines six dimensions: *Strategy, Customer Experience, Technology, Data & AI, People & Culture, Operations*  
@@ -47,3 +47,4 @@
 ```bash
 git clone https://github.com/yourusername/digital-maturity-assessment.git
 cd digital-maturity-assessment
+
